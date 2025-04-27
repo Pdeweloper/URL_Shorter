@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#shorten{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 3px solid black;
+    border-radius: 3%;
+    padding: 3% 5%;
+}
+
+.heading{
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+#sub-bt{
+    background-color: rgb(7, 110, 173);
+    color: #fff;
+    padding: 3%;
+    border-radius: 10%;
+}
